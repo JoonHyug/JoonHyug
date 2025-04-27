@@ -1,4 +1,6 @@
 ### Hi there 👋
+<!-- ![JoonHyug's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonHyug&show_icons=true&theme=onedark)  -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyug0819)](https://solved.ac/hyug0819)
 
 <!--
 **JoonHyug/JoonHyug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
